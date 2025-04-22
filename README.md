@@ -27,3 +27,8 @@ The retail industry is highly competitive, and pricing plays a crucial role in a
 21. ps1, ps2, ps3: Product score or rating associated with competitors’ products.
 22. fp1, fp2, fp3: Freight or shipping cost associated with competitors’ products.
 # Usage
+Jupyter Notebook
+# Conclusion
+Analyzing competitors’ pricing strategies is essential in optimizing retail prices. Monitoring and benchmarking against competitors’ prices can help identify opportunities to price competitively, either by pricing below or above the competition, depending on the retailer’s positioning and strategy. The ultimate aim of optimizing retail prices is to charge a price that helps you make the most money and attracts enough customers to buy your products. It involves using data and pricing strategies to find the right price that maximizes your sales and profits while keeping customers happy. I hope you liked this article on optimizing retail prices with Machine Learning using Python.
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
